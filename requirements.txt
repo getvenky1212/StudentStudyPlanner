@@ -1,0 +1,5 @@
+streamlit>=1.36
+requests
+beautifulsoup4
+pypdf
+google-genai>=2.0
